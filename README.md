@@ -1,16 +1,16 @@
  
 
-# ja
+# Proyecto
 
- ![Static Badge](https://img.shields.io/badge/GNU%20GPLv3-brightgreen)
+ ![Static Badge](https://img.shields.io/badge/Mozilla%20Public%20License%202.0-brightgreen)
 
 ## Description
 
- aja
+ asi es
 
 ## User Story 
 
- *ja*
+ *mi poryecto*
 
 ## Table of Contents
 
@@ -36,44 +36,44 @@
 
 ## Installation
 
- aja
+ asjs
 
 ## Usage
 
- ja
+ ajaj
 
 ## License
 
- GNU GPLv3 
+ Mozilla Public License 2.0 
 
-## Mock-Up
+ ## Mock-Up
 
- ![](./images/aj)
+ ![mi pryoecto](./images/mock-up.jpg)
 
 ## Deployed Application
 
- [URL](aj)
+ [URL](https://leenacruz.com)
 
 ## Contributing
 
  How to contribute to this project:
 
- aj
+ asi
 
 ## Test
 
- aj
+ asi
 
 ## Questions
 
- Write any questions to: [a](mailto:a)
+ Write any questions to: [mail@mail.com](mailto:mail@mail.com)
 
- My GitHub: [ja](https://github.com/ja)
+ My GitHub: [LeenaCruz](https://github.com/LeenaCruz)
 
 ## Future Features
 
- aj
+ asis
 
 ## Credits
 
- aj
+ Gracias

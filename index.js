@@ -31,7 +31,7 @@ let newBadge = badge.replace(/ /g, '%20')
 \n ${response.usage}
 \n## License
 \n ${response.license} 
-\n## Mock-Up
+\n ## Mock-Up
 \n ![${response.mockup}](./images/${response.filename})
 \n## Deployed Application
 \n [URL](${response.url})
@@ -84,7 +84,7 @@ inquirer.prompt([
     },
     {
         type: 'input',
-        message: 'Describe your mockup (store it in an images folder)',
+        message: 'Describe your mockup (Store it in images folder):',
         name: 'mockup',
     },
     {
