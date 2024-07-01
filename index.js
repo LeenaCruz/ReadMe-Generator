@@ -1,10 +1,13 @@
 const fs = require('fs');
 const inquirer = require('inquirer');
-const validator = require('validator');
+// const  badge = require('./modular/badge.js');
 
 function generateReadme(response) {
+// const badge = badge();
+// \n ${badge}
     return ` 
 \n# ${response.title}
+
 \n## Description
 \n ${response.description}
 \n## User Story 
@@ -20,13 +23,14 @@ function generateReadme(response) {
 \n## Usage
 \n ${response.usage}
 \n## License
+\n ${response.license}
 \n## Mock-Up
-\n![Video of how to generate a README.md using node.js](./images/mock-up.gif)
+\n ![${response.mockup}](./images/${response.filename})
 \n## Deployed Application
 \n## Contributing
 \n## Test
 \n## Questions
-\n ${response.github}
+\n https://github.com/${response.github}
 \n## Credits
 
 
@@ -59,6 +63,27 @@ inquirer.prompt([
         type: 'input',
         message: 'Examples of uses:',
         name: 'usage',
+    },
+    {
+        type: 'list',
+        message: 'Examples of uses:',
+        name: 'license',
+        choices: ['MIT','GNU GPLv3','GNU AGPLv3','Mozilla Public License 2.0', 'Apache License 2.0', 'Boost Software License 1.0','The Unlicense']
+    },
+    {
+        type: 'input',
+        message: 'Describe your mockup, remember to upload it to images folder',
+        name: 'mockup',
+    },
+    {
+        type: 'input',
+        message: 'Write your mockup file name with extension. Ex. mock-up.jpg',
+        name: 'filename',
+    },
+    {
+        type: 'input',
+        message: 'What is your GitHub username?',
+        name: 'github',
     },
 //     {
 //         type: 'confirm',

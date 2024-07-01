@@ -1,14 +1,15 @@
  
 
-# hola
+# Leena
+
 
 ## Description
 
- hhaah
+ jaja
 
 ## User Story 
 
- ess
+ jaja
 
 ## Table of Contents
 
@@ -24,13 +25,19 @@
 
 ## Installation
 
- * uno. * dos * rres
+ jaja
 
 ## Usage
 
+ jaja
+
 ## License
 
+ GNU AGPLv3
+
 ## Mock-Up
+
+ ![jaja](./images/mock-up.jpg)
 
 ## Deployed Application
 
@@ -39,6 +46,8 @@
 ## Test
 
 ## Questions
+
+ https://github.com/LeenaCruz
 
 ## Credits
 
