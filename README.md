@@ -9,7 +9,7 @@
 
 ## User Story 
 
- jaja
+ orcos
 
 ## Table of Contents
 
@@ -25,21 +25,23 @@
 
 ## Installation
 
- jaja
+ orcoides
 
 ## Usage
 
- jaja
+ jajaa
 
 ## License
 
- GNU AGPLv3
+ Apache License 2.0
 
 ## Mock-Up
 
- ![jaja](./images/mock-up.jpg)
+ ![mi mockup es asi](./images/mock-up.jpg)
 
 ## Deployed Application
+
+ [URL](https://github.com/LeenaCruz)
 
 ## Contributing
 

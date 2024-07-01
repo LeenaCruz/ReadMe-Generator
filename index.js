@@ -27,6 +27,7 @@ function generateReadme(response) {
 \n## Mock-Up
 \n ![${response.mockup}](./images/${response.filename})
 \n## Deployed Application
+\n [URL](${response.url})
 \n## Contributing
 \n## Test
 \n## Questions
@@ -72,13 +73,18 @@ inquirer.prompt([
     },
     {
         type: 'input',
-        message: 'Describe your mockup, remember to upload it to images folder',
+        message: 'Describe your mockup (store it in an images folder)',
         name: 'mockup',
     },
     {
         type: 'input',
         message: 'Write your mockup file name with extension. Ex. mock-up.jpg',
         name: 'filename',
+    },
+    {
+        type: 'input',
+        message: 'What is your Deployed URL?',
+        name: 'url',
     },
     {
         type: 'input',
