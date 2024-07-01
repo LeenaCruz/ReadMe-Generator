@@ -1,16 +1,16 @@
  
 
-# laja
+# ja
 
- ![Static Badge](https://img.shields.io/badge/GNU%20AGPLv3-brightgreen)
+ ![Static Badge](https://img.shields.io/badge/GNU%20GPLv3-brightgreen)
 
 ## Description
 
- jajaj
+ aja
 
 ## User Story 
 
- jajaj
+ *ja*
 
 ## Table of Contents
 
@@ -22,38 +22,58 @@
 
 * [Mock-Up](#mock-up)
 
+* [Deployed Application](#deployed-application)
 
+* [Contributing](#contributing)
+
+* [Test](#test)
+
+* [Questions](#questions)
+
+* [Future Features](#future-features)
+
+* [Credits](#credits)
 
 ## Installation
 
- ajaja
+ aja
 
 ## Usage
 
- jaja
+ ja
 
 ## License
 
- GNU AGPLv3
+ GNU GPLv3 
 
 ## Mock-Up
 
- ![jaja](./images/jaja)
+ ![](./images/aj)
 
 ## Deployed Application
 
- [URL]()
+ [URL](aj)
 
 ## Contributing
 
+ How to contribute to this project:
+
+ aj
+
 ## Test
+
+ aj
 
 ## Questions
 
  Write any questions to: [a](mailto:a)
 
- https://github.com/a
+ My GitHub: [ja](https://github.com/ja)
+
+## Future Features
+
+ aj
 
 ## Credits
 
-
+ aj
