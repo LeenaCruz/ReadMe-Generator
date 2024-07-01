@@ -1,15 +1,16 @@
  
 
-# Leena
+# Lena
 
+ ![Static Badge](https://img.shields.io/badge/Mozilla%20Public%20License%202.0-brightgreen)
 
 ## Description
 
- jaja
+ ruz
 
 ## User Story 
 
- orcos
+ jaja
 
 ## Table of Contents
 
@@ -25,23 +26,23 @@
 
 ## Installation
 
- orcoides
+ ja
 
 ## Usage
 
- jajaa
+ aja'aja
 
 ## License
 
- Apache License 2.0
+ Mozilla Public License 2.0
 
 ## Mock-Up
 
- ![mi mockup es asi](./images/mock-up.jpg)
+ ![jajaja](./images/jajaa)
 
 ## Deployed Application
 
- [URL](https://github.com/LeenaCruz)
+ [URL](jaja)
 
 ## Contributing
 
@@ -49,7 +50,7 @@
 
 ## Questions
 
- https://github.com/LeenaCruz
+ https://github.com/jaja
 
 ## Credits
 

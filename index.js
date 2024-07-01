@@ -5,9 +5,13 @@ const inquirer = require('inquirer');
 function generateReadme(response) {
 // const badge = badge();
 // \n ${badge}
+const badge = response.license;
+console.log(badge)
+let newBadge = badge.replace(/ /g, '%20')
+console.log(newBadge)
     return ` 
 \n# ${response.title}
-
+\n ![Static Badge](https://img.shields.io/badge/${newBadge}-brightgreen)
 \n## Description
 \n ${response.description}
 \n## User Story 
