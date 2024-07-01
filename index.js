@@ -4,8 +4,16 @@ const inquirer = require('inquirer');
 function generateReadme(response) {
     return ` 
 \n# ${response.title}
-\n# ${response.userStory}
-\n## Table of contents`
+\n## Description
+\n ${response.description}
+\n## User Story 
+\n ${response.userStory}
+\n## Acceptance Criteria
+\n## Mock-Up
+\n## Deployed Application
+\n## Credits
+\n## Table of contents
+`
     
 }
 
@@ -14,6 +22,11 @@ inquirer.prompt([
         type: 'input',
         message: 'What is your project name?',
         name: 'title',
+    },
+    {
+        type: 'input',
+        message: 'Describe your project.',
+        name: 'description',
     },
     {
         type: 'input',
