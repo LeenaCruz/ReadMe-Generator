@@ -1,16 +1,16 @@
  
 
-# Lena
+# laja
 
- ![Static Badge](https://img.shields.io/badge/Mozilla%20Public%20License%202.0-brightgreen)
+ ![Static Badge](https://img.shields.io/badge/GNU%20AGPLv3-brightgreen)
 
 ## Description
 
- ruz
+ jajaj
 
 ## User Story 
 
- jaja
+ jajaj
 
 ## Table of Contents
 
@@ -26,23 +26,23 @@
 
 ## Installation
 
- ja
+ ajaja
 
 ## Usage
 
- aja'aja
+ jaja
 
 ## License
 
- Mozilla Public License 2.0
+ GNU AGPLv3
 
 ## Mock-Up
 
- ![jajaja](./images/jajaa)
+ ![jaja](./images/jaja)
 
 ## Deployed Application
 
- [URL](jaja)
+ [URL]()
 
 ## Contributing
 
@@ -50,7 +50,9 @@
 
 ## Questions
 
- https://github.com/jaja
+ Write any questions to: [a](mailto:a)
+
+ https://github.com/a
 
 ## Credits
 

@@ -35,6 +35,7 @@ console.log(newBadge)
 \n## Contributing
 \n## Test
 \n## Questions
+\n Write any questions to: [${response.email}](mailto:${response.email})
 \n https://github.com/${response.github}
 \n## Credits
 
@@ -89,6 +90,11 @@ inquirer.prompt([
         type: 'input',
         message: 'What is your Deployed URL?',
         name: 'url',
+    },
+    {
+        type: 'input',
+        message: 'What is your email?',
+        name: 'email',
     },
     {
         type: 'input',
