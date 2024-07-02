@@ -1,16 +1,16 @@
  
 
-# Proyecto
+# Professional README Generator
 
  ![Static Badge](https://img.shields.io/badge/Mozilla%20Public%20License%202.0-brightgreen)
 
 ## Description
 
- asi es
+ This is a README.md generator that works in the command line using node.js and inquirer prompt. 
 
 ## User Story 
 
- *mi poryecto*
+ *AS A developer I WANT a README generator SO THAT I can quickly create a professional README for a new project.*
 
 ## Table of Contents
 
@@ -36,11 +36,11 @@
 
 ## Installation
 
- asjs
+ Download index.js >> open terminal or integrated terminal >> run node index.js >> answer prompts, you’re good to go! 
 
 ## Usage
 
- ajaj
+ You can generate professional looking README files with this README generator.
 
 ## License
 
@@ -48,21 +48,21 @@
 
  ## Mock-Up
 
- ![mi pryoecto](./images/mock-up.jpg)
+ ![A video shows how to generate a README.md file using command line and node.js](./images/readme.gif)
 
 ## Deployed Application
 
- [URL](https://leenacruz.com)
+ [URL](https://github.com/LeenaCruz/ReadMe-Generator)
 
 ## Contributing
 
  How to contribute to this project:
 
- asi
+ You can contribute to this repo creating a pull request.
 
 ## Test
 
- asi
+ Test writing different inputs or create a test case.
 
 ## Questions
 
@@ -72,8 +72,8 @@
 
 ## Future Features
 
- asis
+ Validate email, Format step by step installation.
 
 ## Credits
 
- Gracias
+ [Validate Empy Input]( https://github.com/SBoudrias/Inquirer.js/issues/368) | [Badge Maker]( https://shields.io/badges) | [Markdown Syntax]( https://www.markdownguide.org/basic-syntax/#:~:text=To%20italicize%20text%2C%20add%20one,without%20spaces%20around%20the%20letters.&text=Italicized%20text%20is%20the%20*cat's%20meow*.) | [Replace empty strings]( https://www.geeksforgeeks.org/javascript-urlify-a-given-string-replace-spaces-is-%20/)

@@ -55,26 +55,31 @@ inquirer.prompt([
         type: 'input',
         message: 'What is your project name?',
         name: 'title',
+        validate: Boolean,
     },
     {
         type: 'input',
         message: 'Describe your project.',
         name: 'description',
+        validate: Boolean,
     },
     {
         type: 'input',
         message: 'Write your User Story',
-        name: 'userStory'
+        name: 'userStory',
+        validate: Boolean,
     },
     {
         type: 'input',
         message: 'Write the necessary steps for installation.',
         name: 'installation',
+        validate: Boolean,
     },
     {
         type: 'input',
         message: 'Examples of uses:',
         name: 'usage',
+        validate: Boolean,
     },
     {
         type: 'list',
@@ -86,46 +91,55 @@ inquirer.prompt([
         type: 'input',
         message: 'Describe your mockup (Store it in images folder):',
         name: 'mockup',
+        validate: Boolean,
     },
     {
         type: 'input',
         message: 'Write your mockup file name with extension. Ex. mock-up.jpg',
         name: 'filename',
+        validate: Boolean,
     },
     {
         type: 'input',
         message: 'What is your Deployed URL?',
         name: 'url',
+        validate: Boolean,
     },
     {
         type: 'input',
         message: 'How to contribute?',
         name: 'contribution',
+        validate: Boolean,
     },
     {
         type: 'input',
         message: 'How to test?',
         name: 'test',
+        validate: Boolean,
     },
     {
         type: 'input',
         message: 'What is your email?',
         name: 'email',
+        validate: Boolean,
     },
     {
         type: 'input',
         message: 'What is your GitHub username?',
         name: 'github',
+        validate: Boolean,
     },
     {
         type: 'input',
         message: 'Write about new features you want to implement:',
         name: 'features',
+        validate: Boolean,
     },
     {
         type: 'input',
         message: 'Write about your credits and resources:',
-        name: 'credits',
+        name: 'credits', 
+        validate: Boolean,
     },
 
 ])
