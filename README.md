@@ -48,7 +48,7 @@
 
  ## Mock-Up
 
- ![A video shows how to generate a README.md file using command line and node.js](./images/readme.gif)
+ ![A video shows how to generate a README.md file using command line and node.js](./images/readmegen.mp4)
 
 ## Deployed Application
 
